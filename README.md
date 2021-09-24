@@ -1,3 +1,1 @@
-#### Values JS
-
-[values.js](https://github.com/noeldelgado/values.js)
+Checkout - https://color-hunt-react.netlify.app/
